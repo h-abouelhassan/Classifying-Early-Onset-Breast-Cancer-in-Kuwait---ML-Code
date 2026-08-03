@@ -87,4 +87,4 @@ Outputs are written under the directory configured in `EOBCConfig.output_dir`. G
 
 ## Citation
 
-Please cite the associated manuscript when using or adapting this code. Full citation details will be added after publication.
+Please cite the associated manuscript when using or adapting this code (DOI: 10.5281/zenodo.21781358). Full citation details will be added after publication.
