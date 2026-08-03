@@ -10,4 +10,4 @@ version: "1.0.0"
 date-released: "2026-08-04"
 license: "MIT"
 abstract: "Python and R-assisted analysis code for population-level classification of early-onset breast cancer using Kuwait Cancer Registry data. No patient-level data are included."
-# DOI: 10.5281/zenodo.21781358
+# https://doi.org/10.5281/zenodo.21782002
