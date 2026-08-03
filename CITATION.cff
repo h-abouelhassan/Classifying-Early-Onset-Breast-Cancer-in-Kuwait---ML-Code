@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived Zenodo release."
+title: "Classifying Early-Onset Breast Cancer in Kuwait: Analysis Code"
+type: software
+authors:
+  - family-names: "Abouelhassan"
+    given-names: "Hamad"
+repository-code: "https://github.com/h-abouelhassan/Classifying-Early-Onset-Breast-Cancer-in-Kuwait---ML-Code"
+version: "1.0.0"
+date-released: "2026-08-04"
+license: "MIT"
+abstract: "Python and R-assisted analysis code for population-level classification of early-onset breast cancer using Kuwait Cancer Registry data. No patient-level data are included."
+# Add after Zenodo creates the release:
+# doi: "10.5281/zenodo.REPLACE"

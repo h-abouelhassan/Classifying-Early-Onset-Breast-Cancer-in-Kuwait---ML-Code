@@ -1,0 +1,19 @@
+# Replace each placeholder with the exact version used for the final analysis.
+# Generate exact Python versions locally with:
+#   python -V
+#   python -m pip freeze > requirements_full.txt
+#
+# Minimum manuscript-required versions:
+python==3.11.14
+scikit-learn==REPLACE_WITH_FINAL_VERSION
+xgboost==REPLACE_WITH_FINAL_VERSION
+
+# Additional analysis dependencies detected in the notebook:
+matplotlib==REPLACE_WITH_FINAL_VERSION
+numpy==REPLACE_WITH_FINAL_VERSION
+pandas==REPLACE_WITH_FINAL_VERSION
+scipy==REPLACE_WITH_FINAL_VERSION
+shap==REPLACE_WITH_FINAL_VERSION
+statsmodels==REPLACE_WITH_FINAL_VERSION
+# R dependency to report separately:
+# R mice==REPLACE_WITH_FINAL_VERSION
