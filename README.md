@@ -99,7 +99,7 @@ Do not commit generated files containing patient-level or row-level information.
 
 A fixed version of this software is archived on Zenodo.
 
-**Zenodo DOI:** `REPLACE_WITH_VERSION_SPECIFIC_DOI`
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.21782002
 
 The corresponding mutable development repository is:
 
